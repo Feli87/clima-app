@@ -1,6 +1,6 @@
 # React Router v4
 
-React Rotes + Bootstrap
+React Routes + Bootstrap
 
 ## Components
 
