@@ -12,7 +12,12 @@ class Home extends Component {
         <Carrousel/>
         <Aside/>
         <Quote/>
+        <Quote/>
+        <Quote/>
+        <Quote/>
         <Footer/>
+        <br></br>
+        <br></br>
       </div>
     );
   }

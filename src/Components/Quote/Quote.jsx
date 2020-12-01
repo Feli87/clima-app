@@ -4,8 +4,8 @@ class Quote extends Component {
 
   render() {
     return (
-     <div className="row m-1 mb-5 pb-4">
-      <div className="col-6">
+     <div className="row m-1  pb-4">
+      <div className="col-6 p-0 pr-1">
         <div className="card">
           <div className="card-header">
             Quote
@@ -18,7 +18,7 @@ class Quote extends Component {
           </div>
         </div>
       </div>
-      <div className="col-6">
+      <div className="col-6 p-0">
         <div className="card">
           <div className="card-header">
             Quote
