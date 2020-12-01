@@ -1,6 +1,6 @@
 # React Router v4
 
-React Medellín - Meetup Octubre 2017
+React Rotes + Bootstrap
 
 ## Components
 
